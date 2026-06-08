@@ -1,0 +1,10 @@
+streamlit
+pillow
+pytesseract
+deep-translator
+python-docx
+pdf2image
+pandas
+openpyxl
+reportlab
+langdetect
